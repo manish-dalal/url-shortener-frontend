@@ -96,7 +96,7 @@ export default function Home() {
         </Alert>
         <div className="inputcontainer">
           <div className="center time_box">
-            <Label className="time_box_label">Set the expiration time</Label>
+            <Label className="time_box_label">URL expiry time</Label>
             <FormGroup>
               <Input
                 type="select"
