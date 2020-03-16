@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/url-shortener/static/css/main.ccb1ce65.chunk.css",
-    "main.js": "/url-shortener/static/js/main.f41c53d3.chunk.js",
-    "main.js.map": "/url-shortener/static/js/main.f41c53d3.chunk.js.map",
-    "runtime-main.js": "/url-shortener/static/js/runtime-main.b44e1244.js",
-    "runtime-main.js.map": "/url-shortener/static/js/runtime-main.b44e1244.js.map",
-    "static/css/2.89f067aa.chunk.css": "/url-shortener/static/css/2.89f067aa.chunk.css",
-    "static/js/2.8ea551b6.chunk.js": "/url-shortener/static/js/2.8ea551b6.chunk.js",
-    "static/js/2.8ea551b6.chunk.js.map": "/url-shortener/static/js/2.8ea551b6.chunk.js.map",
-    "index.html": "/url-shortener/index.html",
-    "precache-manifest.6a1b27d3af427c6d4646b64d76c56214.js": "/url-shortener/precache-manifest.6a1b27d3af427c6d4646b64d76c56214.js",
-    "service-worker.js": "/url-shortener/service-worker.js",
-    "static/css/2.89f067aa.chunk.css.map": "/url-shortener/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.ccb1ce65.chunk.css.map": "/url-shortener/static/css/main.ccb1ce65.chunk.css.map",
-    "static/js/2.8ea551b6.chunk.js.LICENSE.txt": "/url-shortener/static/js/2.8ea551b6.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/url-shortener/static/media/logo.79d44bd4.png"
+    "main.css": "/url-shortener-frontend/static/css/main.ccb1ce65.chunk.css",
+    "main.js": "/url-shortener-frontend/static/js/main.8506f767.chunk.js",
+    "main.js.map": "/url-shortener-frontend/static/js/main.8506f767.chunk.js.map",
+    "runtime-main.js": "/url-shortener-frontend/static/js/runtime-main.588d96cd.js",
+    "runtime-main.js.map": "/url-shortener-frontend/static/js/runtime-main.588d96cd.js.map",
+    "static/css/2.89f067aa.chunk.css": "/url-shortener-frontend/static/css/2.89f067aa.chunk.css",
+    "static/js/2.8ea551b6.chunk.js": "/url-shortener-frontend/static/js/2.8ea551b6.chunk.js",
+    "static/js/2.8ea551b6.chunk.js.map": "/url-shortener-frontend/static/js/2.8ea551b6.chunk.js.map",
+    "index.html": "/url-shortener-frontend/index.html",
+    "precache-manifest.f0cd95101e7373f28c20e30d36ab5aef.js": "/url-shortener-frontend/precache-manifest.f0cd95101e7373f28c20e30d36ab5aef.js",
+    "service-worker.js": "/url-shortener-frontend/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/url-shortener-frontend/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.ccb1ce65.chunk.css.map": "/url-shortener-frontend/static/css/main.ccb1ce65.chunk.css.map",
+    "static/js/2.8ea551b6.chunk.js.LICENSE.txt": "/url-shortener-frontend/static/js/2.8ea551b6.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/url-shortener-frontend/static/media/logo.79d44bd4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b44e1244.js",
+    "static/js/runtime-main.588d96cd.js",
     "static/css/2.89f067aa.chunk.css",
     "static/js/2.8ea551b6.chunk.js",
     "static/css/main.ccb1ce65.chunk.css",
-    "static/js/main.f41c53d3.chunk.js"
+    "static/js/main.8506f767.chunk.js"
   ]
 }
