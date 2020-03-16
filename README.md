@@ -15,6 +15,6 @@ This project was created for an interview as a ReactJS developer, it shows the u
 3. `npm install` in command line to install dependencies in `package.json`
 4. `npm start` Project will launch in the browser
 
-### Calculator Example
+### App Example
 
 <img src="logo.png">
