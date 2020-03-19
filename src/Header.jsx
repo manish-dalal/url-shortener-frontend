@@ -7,18 +7,23 @@ import {
   Nav,
   NavbarText
 } from "reactstrap";
+import { withRouter } from "react-router-dom";
 import logo from "./images/logo.png";
 
-export default function Header() {
+function Header(props) {
   const [isOpen, setIsOpen] = useState(false);
 
   const toggle = () => setIsOpen(!isOpen);
 
+  const moveToHome = () => {
+    props.history.push("/");
+  };
+
   return (
     <div className="header">
       <Navbar color="light" light expand="md">
-        <NavbarBrand href="/">
-          <img src={logo} className="image" alt="logo" />
+        <NavbarBrand>
+          <img src={logo} className="image" alt="logo" onClick={moveToHome} />
         </NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
@@ -29,3 +34,5 @@ export default function Header() {
     </div>
   );
 }
+
+export default withRouter(props => <Header {...props} />);
